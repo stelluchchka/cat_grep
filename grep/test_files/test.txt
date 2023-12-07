@@ -1,0 +1,14 @@
+test_line_1 linE LINE
+test_line_2
+test_line_3.2
+test_line_3.1
+test_lines_(4-6)
+test_text
+grep [-vi -e "pattert"...] file
+\n
+
+
+1 0 1-i
+1 1 0
+0 0 0
+0 1 1-i
